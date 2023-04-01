@@ -1,2 +1,7 @@
-# Analise_Numerica
-Repositório destinado aos códigos desenvolvidos para a disciplina de Análise Numérica
+# Análise Numérica
+
+👩🏻‍💻 Desenvolvedora: Vitória Yumi Uetuki Nicoleti
+
+📖 Disciplina: Análise Numérica
+
+📚 Faculdade: Ilum Escola de Ciência
